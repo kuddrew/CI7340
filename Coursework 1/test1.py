@@ -4,7 +4,7 @@ import os.path as path # check file exists
 import pandas as pd # import csv, create and manipulate dataframes
 import matplotlib.pyplot as plt  # so we can plot scatter of the data & do a bit of visualisation
 from pandas import option_context # for prettying up output
-import seaborn as sns  # so we can plot the correlation matrix
+`import seaborn as sns  # so we can plot the correlation matrix`
 import numpy as np  # because arrays
 
 
