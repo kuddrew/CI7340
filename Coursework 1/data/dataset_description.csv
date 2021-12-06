@@ -1,4 +1,5 @@
-﻿building_id,building id
+﻿column,description
+building_id,building id
 geo_level_1_id,"geographic region in which building exists, from largest (level 1) to most specific subregion (level 3)."
 geo_level_2_id,"geographic region in which building exists, from largest (level 1) to most specific subregion (level 3)."
 geo_level_3_id,"geographic region in which building exists, from largest (level 1) to most specific subregion (level 3)."
