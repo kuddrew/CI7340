@@ -38,4 +38,4 @@ has_secondary_use_school,flag variable that indicates if the building was used a
 has_secondary_use_health_post,flag variable that indicates if the building was used as a health post.
 has_secondary_use_gov_office,flag variable that indicates if the building was used fas a government office.
 has_secondary_use_use_police,flag variable that indicates if the building was used as a police station.
-damage_grade,represents a level of damage to the building that was hit by the earthquake
+damage_grade,represents a level of damage to the building that was hit by the earthquake.
